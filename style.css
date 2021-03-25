@@ -1,16 +1,22 @@
-.split{
-  hight:100%;
-  width:50%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  overflow-x: hidden;
-  padding-top: 100px; }
-
-.left { 
-  left: 0;
-  background-color: ;
+h1 { color:black;
+  font-family:'lucida sans unicode','lucida grand',sans-serif;
 }
 
-.right{right: 0;
-background-color: ;}
+  h3{
+    font-style:italic;
+}
+
+  h4{
+    font-family:'lucida sans unicode','lucida grand',sans-serif;
+  font-style:italic;
+}
+
+ul {font-family:'lucida sans unicode','lucida grand',sans-serif;}
+
+h5 {font-size:14px;
+   font-weight:150:}
+
+p {font-family:'lucida sans unicode','lucida grand',sans-serif;
+  font-size:13px;}
+
+.one
