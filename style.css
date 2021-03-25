@@ -2,13 +2,11 @@ h1 { color:black;
   font-family:'lucida sans unicode','lucida grand',sans-serif;
 }
 
-  h3{
-    font-style:italic;
-}
+
 
   h4{
     font-family:'lucida sans unicode','lucida grand',sans-serif;
-  font-style:italic;
+  
 }
 
 ul {font-family:'lucida sans unicode','lucida grand',sans-serif;}
@@ -19,4 +17,15 @@ h5 {font-size:14px;
 p {font-family:'lucida sans unicode','lucida grand',sans-serif;
   font-size:13px;}
 
-.one
+body{ padding-left: 10%; 
+padding-right: 10%;
+background-color: #e1eeee;
+  border: black solid 5px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.aye {
+  font-weight: 100;
+  
+}
